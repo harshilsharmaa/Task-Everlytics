@@ -1,4 +1,4 @@
-{
+[
     {
         "machine_name":"Auto Winding Machine",
         "machine_id":"machine001",
@@ -31,4 +31,4 @@
         "idle_monthly":0,
         "idle_yearly":0
     }
-}
+]
